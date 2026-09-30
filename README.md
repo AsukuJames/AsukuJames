@@ -1,4 +1,4 @@
-Hi, I’m James Asuku 👋
+James Asuku
 
 Data Analyst | Business Analyst | SQL • Excel • Power BI
 
@@ -8,12 +8,16 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 
 👨‍💻 About Me
 
+<img align="right" width="180" src="https://avatars.githubusercontent.com/u/321406938?v=4" />
+
 * 📊 Passionate about Data Analytics and Business Intelligence
 * 🔎 Interested in solving real-world business problems with data
 * 📈 Building interactive dashboards and performance reports
 * 🧹 Skilled in data cleaning, analysis, and visualization
 * 💼 Background in Business Administration & Management
 * 🚀 Currently building my career in Data Analytics and Business Analysis
+
+<br clear="right"/>
 
 ⸻
 
@@ -22,22 +26,22 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 📊 Data Analysis & Visualization
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
 </p>
 
 🧹 Data Preparation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL" />
 </p>
 
 💻 Version Control & Collaboration
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
 
 ⸻
