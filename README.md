@@ -8,7 +8,7 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 
 👨‍💻 About Me
 
-<img align="right" width="220" src="https://avatars.githubusercontent.com/u/321406938?v=4" />
+<img align="right" width="240" src="https://github.com/AsukuJames.png?size=400" alt="James Asuku" />
 
 * 📊 Passionate about Data Analytics and Business Intelligence
 * 🔎 Interested in solving real-world business problems with data
@@ -24,11 +24,7 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="50" height="50" alt="Microsoft Excel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=mssql,excel,powerbi,git,github&perline=5&theme=light" alt="SQL Server, Excel, Power BI, Git and GitHub" />
 </p>
 
 Core Skills: Data Cleaning • SQL Analysis • Excel • Power BI • Data Visualization • Dashboard Development • KPI Analysis • Business Insights
@@ -80,10 +76,10 @@ Building real-world Data Analytics and Business Intelligence projects while stre
 
 <p align="left">
   <a href="https://www.linkedin.com/in/james-john-0a0700428/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:asukujames@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
