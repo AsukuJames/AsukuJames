@@ -8,7 +8,7 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 
 👨‍💻 About Me
 
-<img align="right" width="180" src="https://avatars.githubusercontent.com/u/321406938?v=4" />
+<img align="right" width="220" src="https://avatars.githubusercontent.com/u/321406938?v=4" />
 
 * 📊 Passionate about Data Analytics and Business Intelligence
 * 🔎 Interested in solving real-world business problems with data
@@ -23,26 +23,15 @@ I’m a Data Analyst and Business Analyst with a background in Business Administ
 
 🛠️ Tools & Technologies
 
-📊 Data Analysis & Visualization
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45" alt="Excel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="50" height="50" alt="Microsoft Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
 </p>
 
-🧹 Data Preparation
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL" />
-</p>
-
-💻 Version Control & Collaboration
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-</p>
+Core Skills: Data Cleaning • SQL Analysis • Excel • Power BI • Data Visualization • Dashboard Development • KPI Analysis • Business Insights
 
 ⸻
 
